@@ -1,4 +1,19 @@
-
+/**Roundhouse Human Harp Visualisation
+  *@author Alessia Milo
+  *@project Human Harp Roundhouse LiveLab
+  *1.The sketch takes Harp Player OSC messages routed from PD patch  
+  *and transforms them into graphical information displayed in the model 
+  *humanharp.org
+  *https://github.com/Human-Harp/human-harp-sound
+  *2.Instructions: Connect by wireless to Human Harp Channel
+  *Open the PureData Human Harp patch and load the sound
+  *Choose parameters in Pure Data to pair Players with sounds.
+  *Run this sketch. 
+  *Play the Harp Player. Check the interaction in the model and listen
+  *Enable saving audio/video if you want to record the sound
+  *Write Interaction Data in a text file by pressing p. 
+  *
+  */
 
 import oscP5.*;
 import netP5.*;

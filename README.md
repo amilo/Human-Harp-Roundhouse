@@ -5,4 +5,4 @@ Interactive 3D Visualizations of the Roundhouse and the Human Harp Players - Pro
 
 
 
-![Interface](https://github.com/amilo/Human-Harp-Roundhouse/images/screen.png "Interface")
+![Interface](https://github.com/amilo/Human-Harp-Roundhouse/screen.png "Interface")
